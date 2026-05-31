@@ -3,7 +3,7 @@ description: >
   A configurable, multi-environment, multi-backend HTTP client for Dart and Flutter.
   Returns Either<FluxFailure, T> without boilerplate. No codegen required.
 version: 0.1.0
-repository: https://github.com/KjaiaTeam/flux_http
+repository: https://github.com/IgnacioMan1998/flux_http
 
 topics:
   - http
