@@ -1,3 +1,9 @@
+## 0.1.1
+
+### Fixed
+
+- Corrected repository URL in `pubspec.yaml`.
+
 ## 0.1.0
 
 ### Added
